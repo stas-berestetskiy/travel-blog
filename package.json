@@ -1,0 +1,20 @@
+{
+  "name": "travel-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "style": "sass sass/style.sass sass/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stas-berestetskiy/travel-blog.git"
+  },
+  "keywords": [],
+  "author": "Stanislav Berestetskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stas-berestetskiy/travel-blog/issues"
+  },
+  "homepage": "https://github.com/stas-berestetskiy/travel-blog#readme"
+}
