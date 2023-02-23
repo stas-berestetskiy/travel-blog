@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Aleo:ital,wght@0,400;0,700;1,400;1,700&family=Red+Hat+Text:wght@400;500&display=swap');
+
+@import url(./header.css);
+
+:root {
+	--btn-color: #0d606f;
+	--accent-color: #f2785c;
+	--accent-dimmed-color: rgba(242, 120, 92, 0.5);
+	--accent--half-dimmed-color: rgba(242, 120, 92, 0.7);
+}
+
+.container {
+	max-width: 1200px;
+}
+
+section {
+	padding-top: 50px;
+}
